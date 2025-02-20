@@ -1,0 +1,28 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   .vscode/launch.json
+#	new file:   myproject/manage.py
+#	new file:   myproject/myproject/INSTALLED_APPS = [.py
+#	new file:   myproject/myproject/__init__.py
+#	new file:   myproject/myproject/asgi.py
+#	new file:   myproject/myproject/myapp/models.py
+#	new file:   myproject/myproject/settings.py
+#	new file:   myproject/myproject/urls.py
+#	new file:   myproject/myproject/wsgi.py
+#
+# Changes not staged for commit:
+#	modified:   myproject/manage.py
+#	modified:   myproject/myproject/settings.py
+#
+# Untracked files:
+#	Configuration/
+#	myproject/APY.py
+#	myproject/myproject/__pycache__/
+#	myproject/myproject/myappmodels.py
+#
